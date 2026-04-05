@@ -6,15 +6,11 @@
       <stop offset="0%" stop-color="#030305" />
       <stop offset="50%" stop-color="#101114" />
       <stop offset="100%" stop-color="#050507" />
-      <animate attributeName="x1" values="0%;100%;0%" dur="18s" repeatCount="indefinite" />
-      <animate attributeName="x2" values="100%;0%;100%" dur="18s" repeatCount="indefinite" />
     </linearGradient>
     <linearGradient id="titleFill" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#a1a1aa" />
       <stop offset="50%" stop-color="#ffffff" />
       <stop offset="100%" stop-color="#71717a" />
-      <animate attributeName="x1" values="0%;100%;0%" dur="10s" repeatCount="indefinite" />
-      <animate attributeName="x2" values="100%;0%;100%" dur="10s" repeatCount="indefinite" />
     </linearGradient>
     <filter id="softBlur" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="24" />
@@ -23,6 +19,11 @@
       <path d="M0 72 L72 0" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1" />
       <path d="M-18 54 L18 90 M54 -18 L90 18" stroke="#ffffff" stroke-opacity="0.02" stroke-width="1" />
     </pattern>
+    <clipPath id="typingClip">
+      <rect x="420" y="168" width="0" height="34">
+        <animate attributeName="width" values="0;560" dur="3.6s" begin="1s" fill="freeze" />
+      </rect>
+    </clipPath>
   </defs>
 
   <rect width="1400" height="320" fill="url(#bg)" />
@@ -30,12 +31,8 @@
 
   <g filter="url(#softBlur)" opacity="0.9">
     <circle cx="180" cy="84" r="126" fill="#222326">
-      <animate attributeName="cx" values="160;220;160" dur="16s" repeatCount="indefinite" />
-      <animate attributeName="cy" values="72;96;72" dur="16s" repeatCount="indefinite" />
     </circle>
     <circle cx="1180" cy="238" r="154" fill="#17181b">
-      <animate attributeName="cx" values="1160;1220;1160" dur="18s" repeatCount="indefinite" />
-      <animate attributeName="cy" values="224;250;224" dur="18s" repeatCount="indefinite" />
     </circle>
   </g>
 
@@ -48,10 +45,15 @@
 
   <text x="700" y="154" text-anchor="middle" fill="url(#titleFill)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="0.8" opacity="0">
     Welcome to Pitamber's Github
-    <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze" />
+    <animate attributeName="opacity" values="0;1" dur="0.9s" fill="freeze" />
   </text>
 
-  <text x="700" y="192" text-anchor="middle" fill="#a1a1aa" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="500" letter-spacing="4" opacity="0.9">
+  <text x="700" y="192" text-anchor="middle" fill="#a1a1aa" font-family="Consolas, Monaco, monospace" font-size="24" font-weight="600" letter-spacing="1" clip-path="url(#typingClip)">
     Java Developer | DSA | Problem Solver
   </text>
+
+  <rect x="420" y="170" width="3" height="26" fill="#e4e4e7" opacity="0.9">
+    <animate attributeName="x" values="420;980" dur="3.6s" begin="1s" fill="freeze" />
+    <animate attributeName="opacity" values="0;1;0;1;0.2" dur="0.9s" begin="1s" repeatCount="indefinite" />
+  </rect>
 </svg>
