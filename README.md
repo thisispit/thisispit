@@ -89,36 +89,13 @@ Hello, I'm **Pitamber Kumar Singh** — a B.Tech Data Science student and Java d
 ## GitHub Stats
 
 <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisispit&theme=github_dark" />
-&nbsp;
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thisispit&theme=github_dark" />
 
 <br/>
-
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thisispit&theme=github_dark" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=thisispit&hide_border=true&background=0d1117&ring=ffffff&fire=888888&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=888888&dates=555555" />
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════ -->
-<!--         CONTRIBUTION SNAKE                 -->
-<!-- ═══════════════════════════════════════════ -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thisispit/thisispit/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thisispit/thisispit/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/thisispit/thisispit/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/thisispit/thisispit/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<br/>
-
----
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thisispit&bg_color=0d1117&color=888888&line=444444&point=ffffff&area=true&area_color=1a1a1a&hide_border=true" width="100%"/>
 
 <br/>
 
