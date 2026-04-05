@@ -88,13 +88,32 @@ Hello, I'm **Pitamber Kumar Singh** — a B.Tech Data Science student and Java d
 
 ## GitHub Stats
 
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisispit&theme=github_dark" />
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h4>Most Used Languages</h4>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thisispit&theme=github_dark" alt="Top Languages" />
+    </td>
+    <td align="center" width="50%">
+      <h4>GitHub Stats</h4>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thisispit&theme=github_dark" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
-<br/>
+<h4>Contribution Streak</h4>
+
+<img src="https://streak-stats.demolab.com?user=thisispit&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=9ca3af&stroke=ffffff" alt="GitHub Streak" />
+
+<h4>Contribution Graph</h4>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thisispit&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=404040&hide_border=true&custom_title=Pitamber%20Kumar%20Singh%27s%20Contribution%20Graph" alt="Contribution Graph" width="100%" />
+
+<h4>Contribution Snake</h4>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thisispit/thisispit/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/thisispit/thisispit/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/thisispit/thisispit/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <br/>
