@@ -1,78 +1,109 @@
 <div align="center">
 
+<!-- ═══════════════════════════════════════════ -->
+<!--              CINEMATIC HEADER               -->
+<!-- ═══════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Welcome%20to%20Pitamber's%20Github&fontSize=38&color=0:000000,100:1a1a1a&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=developer%20%2F%20designer%20%2F%20builder&descAlignY=72&descSize=14&descColor=888888" />
+
 <br/>
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=hey+%E2%80%94+i%27m+%5BYOUR+NAME%5D;developer+%2F+designer+%2F+builder;always+learning%2C+always+building;welcome+to+my+github" alt="Typing SVG" />
+---
+
+<!-- ═══════════════════════════════════════════ -->
+<!--              CONNECT WITH ME               -->
+<!-- ═══════════════════════════════════════════ -->
+
+### 🔗 Connect with me
+
+[![Twitter](https://img.shields.io/badge/TWITTER-0d1117?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOURUSERNAME)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURUSERNAME)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-0d1117?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOURUSERNAME)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://YOURWEBSITE.com)
+[![Email](https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUREMAIL@gmail.com)
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════ -->
+<!--               ABOUT ME                     -->
+<!-- ═══════════════════════════════════════════ -->
+
+## About me
+
+Hello, I'm **Pitamber Singh** — a developer focused on building clean, functional, and thoughtful digital experiences. I care deeply about the details that make software feel right: structure, performance, and the kind of craft that doesn't need to announce itself.
+
+<br/>
+
+**[YOUR ROLE — e.g. Full Stack Developer]**<br/>
+**[YOUR STACK — e.g. React / Node.js / Python]**<br/>
+**[YOUR STRENGTH — e.g. Clean UI & intuitive architecture]**<br/>
+**[YOUR VALUE — e.g. Collaborative mindset & open source advocate]**
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════ -->
+<!--             TECHNOLOGIES                   -->
+<!-- ═══════════════════════════════════════════ -->
+
+## Technologies
+
+### Core Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0d1117?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-0d1117?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-0d1117?style=for-the-badge&logo=python&logoColor=white)
+
+<br/>
+
+### Frameworks & Libraries
+
+![React](https://img.shields.io/badge/REACT-0d1117?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/NEXT.JS-0d1117?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/NODE.JS-0d1117?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TAILWIND-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Express](https://img.shields.io/badge/EXPRESS-0d1117?style=for-the-badge&logo=express&logoColor=white)
+
+<br/>
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/GIT-0d1117?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCODE-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/FIGMA-0d1117?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-0d1117?style=for-the-badge&logo=docker&logoColor=white)
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════ -->
+<!--             GITHUB STATS                   -->
+<!-- ═══════════════════════════════════════════ -->
+
+## GitHub Stats
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=thisispit&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=888888&count_private=true" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisispit&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&langs_count=6" />
 
 <br/><br/>
 
-# &nbsp; thisispit &nbsp;
-
-*[YOUR ROLE] based in [YOUR CITY]*
+<img src="https://streak-stats.demolab.com?user=thisispit&hide_border=true&background=0d1117&ring=ffffff&fire=888888&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=888888&dates=555555" />
 
 <br/>
 
 ---
 
-<br/>
-
-<!-- About -->
-
-```
-  currently working on  →  [PROJECT / GOAL]
-  currently learning    →  [WHAT YOU'RE LEARNING]
-  ask me about          →  [YOUR EXPERTISE]
-  fun fact              →  [SOMETHING INTERESTING]
-```
-
-<br/>
-
----
-
-<br/>
-
-<!-- Tech Stack -->
-
-**languages**
-
-![Python](https://img.shields.io/badge/python-111111?style=flat-square&logo=python&logoColor=888888)
-![JavaScript](https://img.shields.io/badge/javascript-111111?style=flat-square&logo=javascript&logoColor=888888)
-![TypeScript](https://img.shields.io/badge/typescript-111111?style=flat-square&logo=typescript&logoColor=888888)
-![C](https://img.shields.io/badge/c-111111?style=flat-square&logo=c&logoColor=888888)
-
-**tools & frameworks**
-
-![React](https://img.shields.io/badge/react-111111?style=flat-square&logo=react&logoColor=888888)
-![Node.js](https://img.shields.io/badge/node.js-111111?style=flat-square&logo=node.js&logoColor=888888)
-![Tailwind](https://img.shields.io/badge/tailwind-111111?style=flat-square&logo=tailwindcss&logoColor=888888)
-![Git](https://img.shields.io/badge/git-111111?style=flat-square&logo=git&logoColor=888888)
-![VS Code](https://img.shields.io/badge/vscode-111111?style=flat-square&logo=visualstudiocode&logoColor=888888)
-![Figma](https://img.shields.io/badge/figma-111111?style=flat-square&logo=figma&logoColor=888888)
-
-<br/>
-
----
-
-<br/>
-
-<!-- GitHub Stats -->
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=thisispit&show_icons=true&hide_border=true&bg_color=00000000&title_color=666666&icon_color=666666&text_color=888888&hide_rank=true" />
-&nbsp;&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisispit&layout=compact&hide_border=true&bg_color=00000000&title_color=666666&text_color=888888&langs_count=5" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=thisispit&hide_border=true&background=00000000&ring=666666&fire=888888&currStreakLabel=666666&sideLabels=666666&currStreakNum=aaaaaa&sideNums=aaaaaa&dates=555555" />
-
-<br/>
-
----
-
-<br/>
-
-<!-- Snake -->
+<!-- ═══════════════════════════════════════════ -->
+<!--         CONTRIBUTION SNAKE                 -->
+<!-- ═══════════════════════════════════════════ -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thisispit/thisispit/output/github-contribution-grid-snake-dark.svg" />
@@ -84,28 +115,13 @@
 
 ---
 
-<br/>
-
-<!-- Activity Graph -->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thisispit&bg_color=00000000&color=666666&line=555555&point=888888&area=true&area_color=222222&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thisispit&bg_color=0d1117&color=888888&line=444444&point=ffffff&area=true&area_color=1a1a1a&hide_border=true" width="100%"/>
 
 <br/>
 
 ---
 
-<br/>
-
-<!-- Socials -->
-
-[![Twitter](https://img.shields.io/badge/twitter-111111?style=flat-square&logo=twitter&logoColor=888888)](https://twitter.com/YOURUSERNAME)
-[![LinkedIn](https://img.shields.io/badge/linkedin-111111?style=flat-square&logo=linkedin&logoColor=888888)](https://linkedin.com/in/YOURUSERNAME)
-[![Instagram](https://img.shields.io/badge/instagram-111111?style=flat-square&logo=instagram&logoColor=888888)](https://instagram.com/YOURUSERNAME)
-[![Portfolio](https://img.shields.io/badge/portfolio-111111?style=flat-square&logo=vercel&logoColor=888888)](https://YOURWEBSITE.com)
-
-<br/>
-
-![visitors](https://komarev.com/ghpvc/?username=thisispit&style=flat-square&color=111111&labelColor=111111)
+![visitors](https://komarev.com/ghpvc/?username=thisispit&style=for-the-badge&color=0d1117&labelColor=0d1117)
 
 <br/><br/>
 
