@@ -4,7 +4,7 @@
 <!--              CINEMATIC HEADER               -->
 <!-- ═══════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Welcome%20to%20Pitamber's%20Github&fontSize=38&color=0:000000,100:1a1a1a&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=developer%20%2F%20designer%20%2F%20builder&descAlignY=72&descSize=14&descColor=888888" />
+<img width="100%" src="assets/header.svg" alt="Welcome to Pitamber's Github" />
 
 <br/>
 
@@ -16,11 +16,10 @@
 
 ### 🔗 Connect with me
 
-[![Twitter](https://img.shields.io/badge/TWITTER-0d1117?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOURUSERNAME)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURUSERNAME)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-0d1117?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOURUSERNAME)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://YOURWEBSITE.com)
-[![Email](https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUREMAIL@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thisispit)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/singhpitamber/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://pitamber.xyz)
+[![Email](https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Pitambersingh379@gmail.com)
 
 <br/>
 
@@ -32,14 +31,14 @@
 
 ## About me
 
-Hello, I'm **Pitamber Singh** — a developer focused on building clean, functional, and thoughtful digital experiences. I care deeply about the details that make software feel right: structure, performance, and the kind of craft that doesn't need to announce itself.
+Hello, I'm **Pitamber Kumar Singh** — a B.Tech Data Science student and Java developer focused on DSA, problem solving, and building practical projects.
 
 <br/>
 
-**[YOUR ROLE — e.g. Full Stack Developer]**<br/>
-**[YOUR STACK — e.g. React / Node.js / Python]**<br/>
-**[YOUR STRENGTH — e.g. Clean UI & intuitive architecture]**<br/>
-**[YOUR VALUE — e.g. Collaborative mindset & open source advocate]**
+**Java Developer | DSA | Problem Solver**<br/>
+**Computer Science Student**<br/>
+**LeetCode Problem Solver**<br/>
+**Building Projects and Learning**
 
 <br/>
 
@@ -89,9 +88,13 @@ Hello, I'm **Pitamber Singh** — a developer focused on building clean, functio
 
 ## GitHub Stats
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=thisispit&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=888888&count_private=true" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisispit&theme=github_dark" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisispit&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&langs_count=6" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thisispit&theme=github_dark" />
+
+<br/>
+
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thisispit&theme=github_dark" />
 
 <br/><br/>
 
