@@ -6,6 +6,8 @@
       <stop offset="0%" stop-color="#030305" />
       <stop offset="50%" stop-color="#101114" />
       <stop offset="100%" stop-color="#050507" />
+      <animate attributeName="x1" values="0%;8%;0%" dur="24s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="100%;92%;100%" dur="24s" repeatCount="indefinite" />
     </linearGradient>
     <linearGradient id="titleFill" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#a1a1aa" />
@@ -27,21 +29,22 @@
   </defs>
 
   <rect width="1400" height="320" fill="url(#bg)" />
-  <rect width="1400" height="320" fill="url(#noise)" />
+  <rect width="1400" height="320" fill="url(#noise)" opacity="0.08">
+    <animate attributeName="opacity" values="0.06;0.12;0.06" dur="12s" repeatCount="indefinite" />
+  </rect>
 
   <g filter="url(#softBlur)" opacity="0.9">
     <circle cx="180" cy="84" r="126" fill="#222326">
+      <animate attributeName="cx" values="170;210;170" dur="16s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="80;94;80" dur="16s" repeatCount="indefinite" />
     </circle>
     <circle cx="1180" cy="238" r="154" fill="#17181b">
+      <animate attributeName="cx" values="1168;1210;1168" dur="18s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="230;248;230" dur="18s" repeatCount="indefinite" />
     </circle>
   </g>
 
-  <rect width="1400" height="320" fill="none" stroke="#ffffff" stroke-opacity="0.06" />
-
-  <g opacity="0.18">
-    <path d="M0 248 C 170 218, 320 304, 520 274 S 900 228, 1120 268 S 1280 286, 1400 252" fill="none" stroke="#d4d4d8" stroke-width="1.6" />
-    <path d="M0 270 C 200 246, 360 318, 560 290 S 910 250, 1140 292 S 1280 310, 1400 270" fill="none" stroke="#a1a1aa" stroke-width="1.2" />
-  </g>
+  <rect width="1400" height="320" fill="none" stroke="#ffffff" stroke-opacity="0.05" />
 
   <text x="700" y="154" text-anchor="middle" fill="url(#titleFill)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="0.8" opacity="0">
     Welcome to Pitamber's Github
