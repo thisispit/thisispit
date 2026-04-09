@@ -1,127 +1,105 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════ -->
-<!--              CINEMATIC HEADER               -->
-<!-- ═══════════════════════════════════════════ -->
-
 <img width="100%" src="assets/header.svg" alt="Welcome to Pitamber's Github" />
 
-<br/>
+</div>
 
 ---
 
-<!-- ═══════════════════════════════════════════ -->
-<!--              CONNECT WITH ME               -->
-<!-- ═══════════════════════════════════════════ -->
+## About Me
 
-### 🔗 Connect with me
-
-[![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thisispit)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/singhpitamber/)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://pitamber.xyz)
-[![Email](https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Pitambersingh379@gmail.com)
-
-<br/>
+* B.Tech Data Science Student
+* Java Developer and Problem Solver
+* Focused on DSA and System Design
+* Currently building real-world projects
+* Learning Spring Boot and Backend Development
+* Interested in clean UI and minimal design
 
 ---
 
-<!-- ═══════════════════════════════════════════ -->
-<!--               ABOUT ME                     -->
-<!-- ═══════════════════════════════════════════ -->
+## Connect With Me
 
-## About me
+<div align="center">
 
-Hello, I'm **Pitamber Kumar Singh** — a B.Tech Data Science student and Java developer focused on DSA, problem solving, and building practical projects.
+[![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/thisispit)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/singhpitamber/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge\&logo=vercel\&logoColor=white)](https://pitamber.xyz)
+[![Email](https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:Pitambersingh379@gmail.com)
 
-<br/>
-
-**Java Developer | DSA | Problem Solver**<br/>
-**Computer Science Student**<br/>
-**LeetCode Problem Solver**<br/>
-**Building Projects and Learning**
-
-<br/>
+</div>
 
 ---
 
-<!-- ═══════════════════════════════════════════ -->
-<!--             TECHNOLOGIES                   -->
-<!-- ═══════════════════════════════════════════ -->
+## Tech Stack
 
-## Technologies
+### Languages
 
-### Core Technologies
+![Java](https://img.shields.io/badge/JAVA-0d1117?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-0d1117?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0d1117?style=for-the-badge\&logo=javascript\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-0d1117?style=for-the-badge\&logo=typescript\&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0d1117?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-0d1117?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-0d1117?style=for-the-badge&logo=python&logoColor=white)
+### Frontend
 
-<br/>
+![React](https://img.shields.io/badge/REACT-0d1117?style=for-the-badge\&logo=react\&logoColor=white)
+![Next.js](https://img.shields.io/badge/NEXT.JS-0d1117?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TAILWIND-0d1117?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
-### Frameworks & Libraries
+### Backend
 
-![React](https://img.shields.io/badge/REACT-0d1117?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/NEXT.JS-0d1117?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/NODE.JS-0d1117?style=for-the-badge&logo=node.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TAILWIND-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Express](https://img.shields.io/badge/EXPRESS-0d1117?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/NODE.JS-0d1117?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/EXPRESS-0d1117?style=for-the-badge\&logo=express\&logoColor=white)
 
-<br/>
+### Tools
 
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/GIT-0d1117?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCODE-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/FIGMA-0d1117?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-0d1117?style=for-the-badge&logo=docker&logoColor=white)
-
-<br/>
+![Git](https://img.shields.io/badge/GIT-0d1117?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-0d1117?style=for-the-badge\&logo=docker\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCODE-0d1117?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
-<!-- ═══════════════════════════════════════════ -->
-<!--             GITHUB STATS                   -->
-<!-- ═══════════════════════════════════════════ -->
+## Featured Projects
+
+* Entertainment Industry Collaboration Platform
+* Voice Controlled Transport System
+* Fake News Detection ML Project
+* Course Management System
+
+---
 
 ## GitHub Stats
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h4>Most Used Languages</h4>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thisispit&theme=github_dark" alt="Top Languages" />
-    </td>
-    <td align="center" width="50%">
-      <h4>GitHub Stats</h4>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thisispit&theme=github_dark" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thisispit&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thisispit&theme=github_dark" />
+</p>
 
-<h4>Contribution Streak</h4>
-
-<img src="https://streak-stats.demolab.com?user=thisispit&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=9ca3af&stroke=ffffff" alt="GitHub Streak" />
-
-<h4>Contribution Graph</h4>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thisispit&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=404040&hide_border=true&custom_title=Pitamber%20Kumar%20Singh%27s%20Contribution%20Graph" alt="Contribution Graph" width="100%" />
-
-<h4>Contribution Snake</h4>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thisispit/thisispit/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/thisispit/thisispit/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<br/>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=thisispit&theme=dark&hide_border=true&background=0d1117" />
+</p>
 
 ---
 
-![visitors](https://komarev.com/ghpvc/?username=thisispit&style=for-the-badge&color=0d1117&labelColor=0d1117)
+## Contribution Graph
 
-<br/><br/>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thisispit&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" />
+</p>
 
-</div>
+---
+
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+  srcset="https://raw.githubusercontent.com/thisispit/thisispit/output/github-contribution-grid-snake-dark.svg" />
+
+<img alt="github contribution snake" 
+src="https://raw.githubusercontent.com/thisispit/thisispit/output/github-contribution-grid-snake.svg" /> </picture>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=thisispit&style=for-the-badge&color=0d1117" />
+</p>
