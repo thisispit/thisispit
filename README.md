@@ -1,4 +1,4 @@
-<div align="center">
+********************<div align="center">
 
 <img width="100%" src="assets/header.svg" alt="Welcome to Pitamber's Github" />
 
@@ -56,6 +56,7 @@
 ![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge\&logo=github\&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-0d1117?style=for-the-badge\&logo=docker\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCODE-0d1117?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-0d1117?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
