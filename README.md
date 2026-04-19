@@ -65,7 +65,7 @@
 * Entertainment Industry Collaboration Platform
 * Voice Controlled Transport System
 * Fake News Detection ML Project
-* Course Management System
+* Newsflow - RSS based News recommendation
 
 ---
 
