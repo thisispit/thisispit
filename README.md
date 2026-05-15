@@ -62,10 +62,10 @@
 
 ## Featured Projects
 
+* Newsflow - RSS based News recommendation
 * Entertainment Industry Collaboration Platform
 * Voice Controlled Transport System
 * Fake News Detection ML Project
-* Newsflow - RSS based News recommendation
 
 ---
 
