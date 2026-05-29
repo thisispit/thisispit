@@ -14,7 +14,6 @@
 * Currently building real-world projects
 * Learning Spring Boot and Backend Development
 * Interested in clean UI and minimal design
-
 ---
 
 ## Connect With Me
