@@ -7,7 +7,6 @@
 ---
 
 ## About Me
-
 * B.Tech Data Science Student
 * Java Developer and Problem Solver
 * Focused on DSA and System Design
