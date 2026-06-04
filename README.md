@@ -29,7 +29,6 @@
 ## Tech Stack
 
 ### Languages
-
 ![Java](https://img.shields.io/badge/JAVA-0d1117?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-0d1117?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0d1117?style=for-the-badge\&logo=javascript\&logoColor=white)
