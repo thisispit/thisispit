@@ -21,7 +21,7 @@
 
 [![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/thisispit)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/singhpitamber/)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge\&logo=vercel\&logoColor=white)](https://github.com/thisispit)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge\&logo=vercel\&logoColor=white)](https://thisispit.github.io/)
 [![Email](https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:Pitambersingh379@gmail.com)
 
 </div>
