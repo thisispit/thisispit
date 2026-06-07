@@ -25,6 +25,7 @@
 [![Email](https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:Pitambersingh379@gmail.com)
 
 </div>
+
 ---
 
 ## Tech Stack
