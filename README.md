@@ -15,7 +15,6 @@
 * Interested in clean UI and minimal design
 ---
 
-
 ## Connect With Me
 
 <div align="center">
