@@ -69,11 +69,6 @@
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thisispit&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thisispit&theme=github_dark" />
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=thisispit&theme=dark&hide_border=true&background=0d1117" />
 </p>
 
