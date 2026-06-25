@@ -10,6 +10,8 @@
 
 B.Tech Data Science · Java Developer · DSA & System Design · Spring Boot
 
+<sub>七転び八起き &nbsp;—&nbsp; fall seven times, rise eight</sub>
+
 </div>
 
 <br/>
