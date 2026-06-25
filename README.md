@@ -4,19 +4,15 @@
 
 </div>
 
-<br/>
-
 <div align="center">
 
-B.Tech Data Science · Java Developer · DSA & System Design · Spring Boot
+B.Tech Data Science &nbsp;·&nbsp; Java Developer &nbsp;·&nbsp; DSA & System Design &nbsp;·&nbsp; Spring Boot
 
 <sub>七転び八起き &nbsp;—&nbsp; fall seven times, rise eight</sub>
 
+<sub>now &nbsp;→&nbsp; Spring Boot · System Design · Building things</sub>
+
 </div>
-
-<br/>
-
----
 
 <div align="center">
 
@@ -27,7 +23,7 @@ B.Tech Data Science · Java Developer · DSA & System Design · Spring Boot
 
 </div>
 
----
+<div align="center"><sub>· · ·</sub></div>
 
 ```
 Languages   →   Java · Python · JavaScript · TypeScript
@@ -36,7 +32,7 @@ Backend     →   Node.js · Express · Spring Boot
 Tools       →   Git · Docker · Linux · VS Code
 ```
 
----
+<div align="center"><sub>· · ·</sub></div>
 
 <div align="center">
 
@@ -44,7 +40,7 @@ Tools       →   Git · Docker · Linux · VS Code
 
 </div>
 
----
+<div align="center"><sub>· · ·</sub></div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -52,7 +48,3 @@ Tools       →   Git · Docker · Linux · VS Code
   <img alt="github contribution snake"
   src="https://raw.githubusercontent.com/thisispit/thisispit/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=thisispit&style=flat-square&color=0d1117&label=views" />
-</div>
