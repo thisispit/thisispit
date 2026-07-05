@@ -16,7 +16,6 @@ B.Tech Data Science · Java Developer · DSA & System Design · Spring Boot
 
 <br/>
 
-
 ---
 
 <div align="center">
