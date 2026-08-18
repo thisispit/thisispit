@@ -29,6 +29,7 @@ B.Tech Data Science · Java Developer · DSA & System Design · Spring Boot
 </div>
 
 ---
+
 ```
 Languages   →   Java · Python · C · JavaScript 
 Frontend    →   React · Next.js · Tailwind CSS
