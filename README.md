@@ -26,6 +26,7 @@ B.Tech Data Science · Java Developer · DSA & System Design · Spring Boot
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=white)](https://thisispit.github.io)&nbsp;
 [![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=white)](mailto:Pitambersingh379@gmail.com)
 
+
 </div>
 
 ---
