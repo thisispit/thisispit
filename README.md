@@ -24,7 +24,7 @@ I like knowing why systems behave the way they do (how a service scales, why a q
 
 ## ✦ Focus
 
-**Building** &nbsp;·&nbsp; Spring Boot services, REST APIs, full-stack apps<br/>
+**Building** &nbsp;·&nbsp; Spring Boot services, REST APIs, full-stack<br/>
 **Practising** &nbsp;·&nbsp; Data structures & algorithms, system design<br/>
 **Exploring** &nbsp;·&nbsp; Docker, Linux, data science
 
