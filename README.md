@@ -8,7 +8,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-21262d?style=flat-square&logo=github&logoColor=c9d1d9)](https://github.com/thisispit)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-21262d?style=flat-square&logo=linkedin&logoColor=c9d1d9)](https://linkedin.com/in/singhpitamber/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-21262d?style=flat-square&logo=linkedin&logoColor=c9d1d9)](https://linkedin.com/in/singhpitamber)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-21262d?style=flat-square&logo=vercel&logoColor=c9d1d9)](https://thisispit.github.io)&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-21262d?style=flat-square&logo=leetcode&logoColor=c9d1d9)](https://leetcode.com/u/thisispit/)&nbsp;
 [![Email](https://img.shields.io/badge/Email-21262d?style=flat-square&logo=gmail&logoColor=c9d1d9)](mailto:Pitambersingh379@gmail.com)
